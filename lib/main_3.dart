@@ -39,6 +39,8 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text('Text Input Example'),
       ),
+
+      //Lab Assignment: Navigation Menu
       drawer: Drawer(
           child: ListView(
             // Important: Remove any padding from the ListView.
