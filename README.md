@@ -1,4 +1,4 @@
-# bitp3453_lab02
+# BITP3453_Lab02
 
 A new Flutter project.
 
